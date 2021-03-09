@@ -15,7 +15,7 @@ hello remove world to fix an issue
 
 anadir otro cambio
 
-cambio desde el terminal
 avanzar el main branch
 
 feature bracnh
+change in the branch_1
